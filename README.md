@@ -6,8 +6,8 @@ pkg install python
 
 pkg install python3
 
-git clone https://github.com/NATIONVK/PRO-NATION-03.git
+git clone https://github.com/Abdo05XR/ABDO.git
 
-cd PRO-NATION-03
+cd ABDO
 
-python 'PRO-NATION-03.py'
+python ABDO.py
